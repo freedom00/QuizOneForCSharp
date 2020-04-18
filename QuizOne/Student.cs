@@ -11,7 +11,6 @@ namespace QuizOne
         public event EventHandler StudentGraduated;
 
         public string Name { get; set; }
-        public bool Isgraduated { get; set; }
 
         private bool isGraduated;
 
